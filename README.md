@@ -76,8 +76,8 @@ I’m a second-year B.Tech student at **Techno Main Salt Lake**, pursuing **Comp
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishikamukherjee&show_icons=true&theme=gruvbox" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rishikamukherjee&theme=gruvbox" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=gruvbox" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=gruvbox" height="150"/>
 </p>
 
 ---
