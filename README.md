@@ -84,7 +84,6 @@ I’m a second-year B.Tech student at **Techno Main Salt Lake**, pursuing **Comp
 
 ## 📫 Reach Me At
 
-|------------|----------------------------------------------|
 | 📧 Email   | [rishikamukherjee2006@gmail.com](mailto:rishikamukherjee2006@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/rishika-mukherjee-125435321](https://linkedin.com/in/rishika-mukherjee-125435321) |
 
