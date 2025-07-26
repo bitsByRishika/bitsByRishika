@@ -1,11 +1,17 @@
-<h1 align="center">Rishika Mukherjee</h1>
-<h3 align="center">B.Tech CSE (AI & ML) | Aspiring AI Researcher | Web Developer</h3>
+<!-- Header Name and Tagline -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=Rishika+Mukherjee;B.Tech+CSE+(AI+%26+ML);Aspiring+AI+Researcher+%7C+Web+Developer" alt="Typing SVG" />
+</h1>
 
+<!-- Wavy Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=120&section=header&text=&fontColor=ffffff" />
 </p>
 
----
+<!-- Animated Tagline Glow -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-B.Tech%20CSE%20(AI%20&%20ML)-0abde3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0zMjAgMzY4YzAgMjYuNTEtMjEuNDkgNDgtNDggNDhIMjQwYy0yNi41MSAwLTQ4LTIxLjQ5LTQ4LTQ4djMyaC00OGMtMTcuNjYgMC0zMi0xNC4zNC0zMi0zMlYxNzZjMC0xNy42NiAxNC4zNC0zMiAzMi0zMmg0OHYzMmMwLTI2LjUxIDIxLjQ5LTQ4IDQ4LTQ4aDMyYzI2LjUxIDAgNDggMjEuNDkgNDggNDh2LTMyYzAtMTcuNjYgMTQuMzQtMzIgMzItMzJoNDhjMTcuNjYgMCAzMiAxNC4zNCAzMiAzM
+
 
 ## 🧾 Summary
 
