@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello! I'm Rishika Mukherjee
 
-<!--
-**bitsByRishika/bitsByRishika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student at Techno Main Salt Lake  
+💻 Passionate about Machine Learning, Web Dev, and Ethical Tech  
+🎨 I paint and play the ukulele in my free time!
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Programming: `Python`, `C`, `C++`, `JavaScript`
+- Web: `HTML`, `CSS`, `React`, `Flask`
+- Tools: `Git`, `VS Code`, `Figma`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Stats
+![Rishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikamukherjee&show_icons=true&theme=tokyonight)
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen)](https://yourportfolio.com)
