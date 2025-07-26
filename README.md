@@ -1,16 +1,27 @@
-<!-- Header Name and Tagline -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=Rishika+Mukherjee;B.Tech+CSE+(AI+%26+ML);Aspiring+AI+Researcher+%7C+Web+Developer" alt="Typing SVG" />
-</h1>
-
-<!-- Wavy Banner -->
+<!-- Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=120&section=header&text=&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=120&section=header"/>
 </p>
 
-<!-- Animated Tagline Glow -->
+<!-- Name & Title -->
+<div align="center">
+
+  <img src="https://img.shields.io/badge/-Hi%2C%20I'm%20Rishika%20Mukherjee!-8e44ad?style=for-the-badge&logoColor=white&logo=github&colorA=white&colorB=8e44ad" />
+
+  <h2>B.Tech CSE (AI & ML)</h2>
+  <h4>💻 Web Developer | 🧠 Aspiring AI Researcher</h4>
+
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-6c5ce7?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Dev-00cec9?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coding%20Learner-f39c12?style=for-the-badge&logo=python&logoColor=white" />
+
+</div>
+
+<!-- Subtle divider -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-B.Tech%20CSE%20(AI%20&%20ML)-0abde3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0zMjAgMzY4YzAgMjYuNTEtMjEuNDkgNDgtNDggNDhIMjQwYy0yNi41MSAwLTQ4LTIxLjQ5LTQ4LTQ4djMyaC00OGMtMTcuNjYgMC0zMi0xNC4zNC0zMi0zMlYxNzZjMC0xNy42NiAxNC4zNC0zMiAzMi0zMmg0OHYzMmMwLTI2LjUxIDIxLjQ5LTQ4IDQ4LTQ4aDMyYzI2LjUxIDAgNDggMjEuNDkgNDggNDh2LTMyYzAtMTcuNjYgMTQuMzQtMzIgMzItMzJoNDhjMTcuNjYgMCAzMiAxNC4zNCAzMiAzM
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=80&section=footer"/>
+</p>
+
 
 
 ## 🧾 Summary
