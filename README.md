@@ -1,27 +1,25 @@
 <!-- Wave Banner -->
 <p align="center">
+<!-- Top Wave Banner -->
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=120&section=header"/>
 </p>
 
-<!-- Name & Title -->
-<div align="center">
+<!-- Name + Role -->
+<h1 align="center" style="font-size: 3rem;">Hi, I'm <span style="color:#8e44ad;">Rishika Mukherjee</span> 👋</h1>
 
-  <img src="https://img.shields.io/badge/-Hi%2C%20I'm%20Rishika%20Mukherjee!-8e44ad?style=for-the-badge&logoColor=white&logo=github&colorA=white&colorB=8e44ad" />
+<h3 align="center">🎓 B.Tech CSE (AI & ML) | 💻 Web Developer | 🧠 Aspiring AI Researcher</h3>
 
-  <h2>B.Tech CSE (AI & ML)</h2>
-  <h4>💻 Web Developer | 🧠 Aspiring AI Researcher</h4>
-
+<p align="center">
   <img src="https://img.shields.io/badge/AI%20Enthusiast-6c5ce7?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20Dev-00cec9?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Coding%20Learner-f39c12?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-</div>
-
-<!-- Subtle divider -->
+<!-- Bottom Wave Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=80&section=footer"/>
 </p>
-
 
 
 ## 🧾 Summary
