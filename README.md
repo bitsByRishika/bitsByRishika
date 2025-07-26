@@ -8,57 +8,68 @@
 ---
 
 ## 🧾 Summary
-I’m a second-year B.Tech student at **Techno Main Salt Lake**, specializing in **Artificial Intelligence & Machine Learning**. I enjoy building web applications, solving problems with code, and exploring intersections of tech, creativity, and logic. I’m currently learning **Machine Learning** and preparing for **GATE (CSE)**.
+
+I’m a second-year B.Tech student at **Techno Main Salt Lake**, pursuing **Computer Science with a specialization in AI & ML**. Passionate about technology, I love blending logic and creativity through code, digital design, and research.
 
 ---
 
 ## 🎓 Education
 
-| Degree         | Institute                   | Duration        |
-|----------------|-----------------------------|-----------------|
-| B.Tech in CSE (AI & ML) | Techno Main Salt Lake         | 2024 – 2028     |
-| 12th (CBSE)    | Kendriya Vidyalaya Cossipore | 2022 – 2024     |
-| 10th (CBSE)    | Kendriya Vidyalaya Cossipore | 2020 – 2022     |
+| Degree | Institution | Duration |
+|--------|-------------|----------|
+| B.Tech in CSE (AI & ML) | Techno Main Salt Lake | 2024 – 2028 |
+| 12th (CBSE) | Kendriya Vidyalaya Cossipore | 2022 – 2024 |
+| 10th (CBSE) | Kendriya Vidyalaya Cossipore | 2020 – 2022 |
 
 ---
 
 ## 💼 Skills
 
-### Programming Languages  
-`C` • `C++` • `Python` • `JavaScript`
+### 👩‍💻 Programming Languages
 
-### Web Development  
-`HTML5` • `CSS3` • `Responsive Design` • `React` • `Tailwind CSS` • `Flask`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+</p>
 
-### Tools & Platforms  
-`Git` • `GitHub` • `VS Code` • `Canva` • `Figma`
+### 🌐 Web Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS"/>
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva"/>
+</p>
 
 ---
 
 ## 📚 Courses & Certifications
-- 🏆 NPTEL: Python Programming
-- 🏆 Coursera: Responsive Web Design
-- 📜 Certified in C and C++ Programming
-- 🧪 Currently learning: Machine Learning (Self-study + Projects)
+
+- 🏆 NPTEL: Python Programming  
+- 🏆 Coursera: Responsive Web Design (HTML, CSS, JS)  
+- 📜 Certified in C and C++  
+- 📖 Currently learning Machine Learning  
 
 ---
 
-## 🧩 Projects
+## 🎨 Hobbies & Interests
 
-| Project        | Tech Used                 | Description |
-|----------------|---------------------------|-------------|
-| **Bail Setu**  | React, Tailwind CSS        | Court recommender system for bail-related cases |
-| **Movie Galaxy** | HTML, CSS, JS             | Sci-fi movie blog site with custom routing |
-| **ToDo App**   | Python, Flask, SQLite     | Task manager with database backend |
-| **Portfolio Site** | HTML, CSS, Responsive    | Personal CV-style website |
-
----
-
-## 🧠 Interests
-- 🎨 Digital Art (Certified 5th-year drawing)
-- 🎵 Playing guitar, ukulele, kalimba
-- 📖 Sci-fi books and movies
-- 🧪 AI Research & real-world problem-solving
+- 🎨 Digital art & painting (Certified 5th Year)  
+- 🎵 Music: Guitar, Ukulele, Kalimba  
+- 📚 Sci-fi movies and books  
+- 🧪 Research in Artificial Intelligence  
 
 ---
 
@@ -71,9 +82,8 @@ I’m a second-year B.Tech student at **Techno Main Salt Lake**, specializing in
 
 ---
 
-## 📫 Contact Me
+## 📫 Reach Me At
 
-| Platform   | Link                                         |
 |------------|----------------------------------------------|
 | 📧 Email   | [rishikamukherjee2006@gmail.com](mailto:rishikamukherjee2006@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/rishika-mukherjee-125435321](https://linkedin.com/in/rishika-mukherjee-125435321) |
