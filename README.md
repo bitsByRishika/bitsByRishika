@@ -43,11 +43,13 @@ Passionate about technology, I love blending logic and creativity through code, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
 </p>
 
-### 🌐 Web Technologies
+### 🌐 Web Technologies & Frameworks
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask"/>
 </p>
 
@@ -76,15 +78,6 @@ Passionate about technology, I love blending logic and creativity through code, 
 - 🎵 Music: Guitar, Ukulele, Kalimba  
 - 📚 Sci-fi movies and books  
 - 🧪 Research in Artificial Intelligence  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishika-mukherjee&show_icons=true&theme=gruvbox&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rishika-mukherjee&theme=gruvbox&hide_border=true" height="160"/>
-</p>
 
 ---
 
