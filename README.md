@@ -63,24 +63,6 @@ Passionate about technology, I love blending logic and creativity through code, 
 
 ---
 
-## 📚 Courses & Certifications
-
-- 🏆 NPTEL: Python Programming  
-- 🏆 Coursera: Responsive Web Design (HTML, CSS, JS)  
-- 📜 Certified in C and C++  
-- 📖 Currently learning Machine Learning  
-
----
-
-## 🎨 Hobbies & Interests
-
-- 🎨 Digital art & painting (Certified 5th Year)  
-- 🎵 Music: Guitar, Ukulele, Kalimba  
-- 📚 Sci-fi movies and books  
-- 🧪 Research in Artificial Intelligence  
-
----
-
 ## 📫 Reach Me At
 
 | 📧 Email   | [rishikamukherjee2006@gmail.com](mailto:rishikamukherjee2006@gmail.com) |
