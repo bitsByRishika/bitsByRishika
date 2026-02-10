@@ -14,19 +14,6 @@
   <img src="https://img.shields.io/badge/Coding%20Learner-f39c12?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🤖 AI / ML & Backend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
-</p>
-
-<p>
-  <b>Core Areas:</b> Machine Learning, Deep Learning, Model Training Basics, REST APIs, Backend Integration
-</p>
-
 ---
 
 ## 🧾 Summary
@@ -47,6 +34,16 @@ Passionate about technology, I love blending logic and creativity through code, 
 ---
 
 ## 💼 Skills
+
+
+### 🤖 AI / ML & Backend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
+</p>
 
 ### 👩‍💻 Programming Languages
 <p>
